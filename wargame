@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-24T12:47:37.466Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="MJRZV3y_YeykmQV69UVc" version="16.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-24T12:54:57.509Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.82 Safari/537.36" etag="ZlMeaNl8jgLBVbrSRXt4" version="16.5.4" type="github">
   <diagram id="ZdYILO2TvihxKECBxNIX" name="Page-1">
     <mxGraphModel dx="1422" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -46,7 +46,7 @@
         <mxCell id="szDmVbfAeonuszVXFKL6-14" value="模型" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="200" y="90" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="szDmVbfAeonuszVXFKL6-15" value="操作逻辑" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="szDmVbfAeonuszVXFKL6-15" value="操作视角" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="510" y="90" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="szDmVbfAeonuszVXFKL6-16" value="界面UI" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Tahoma;fontSize=16;fontStyle=1" vertex="1" parent="1">
